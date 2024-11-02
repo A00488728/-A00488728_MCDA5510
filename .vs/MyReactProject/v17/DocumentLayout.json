@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\0B7744649\\source\\repos\\MyReactProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{672412F0-C750-4629-8C8A-520F16BA9DD4}|MyReactProject\\myreactproject.esproj|c:\\users\\0b7744649\\source\\repos\\myreactproject\\myreactproject\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{672412F0-C750-4629-8C8A-520F16BA9DD4}|MyReactProject\\myreactproject.esproj|solutionrelative:myreactproject\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{672412F0-C750-4629-8C8A-520F16BA9DD4}|MyReactProject\\myreactproject.esproj|c:\\users\\0b7744649\\source\\repos\\myreactproject\\myreactproject\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{672412F0-C750-4629-8C8A-520F16BA9DD4}|MyReactProject\\myreactproject.esproj|solutionrelative:myreactproject\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{672412F0-C750-4629-8C8A-520F16BA9DD4}|MyReactProject\\myreactproject.esproj|c:\\users\\0b7744649\\source\\repos\\myreactproject\\myreactproject\\src\\home.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{672412F0-C750-4629-8C8A-520F16BA9DD4}|MyReactProject\\myreactproject.esproj|solutionrelative:myreactproject\\src\\home.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{672412F0-C750-4629-8C8A-520F16BA9DD4}|MyReactProject\\myreactproject.esproj|c:\\users\\0b7744649\\source\\repos\\myreactproject\\myreactproject\\src\\weather.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{672412F0-C750-4629-8C8A-520F16BA9DD4}|MyReactProject\\myreactproject.esproj|solutionrelative:myreactproject\\src\\weather.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672412F0-C750-4629-8C8A-520F16BA9DD4}|MyReactProject\\myreactproject.esproj|c:\\users\\0b7744649\\source\\repos\\myreactproject\\myreactproject\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{672412F0-C750-4629-8C8A-520F16BA9DD4}|MyReactProject\\myreactproject.esproj|solutionrelative:myreactproject\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672412F0-C750-4629-8C8A-520F16BA9DD4}|MyReactProject\\myreactproject.esproj|c:\\users\\0b7744649\\source\\repos\\myreactproject\\myreactproject\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{672412F0-C750-4629-8C8A-520F16BA9DD4}|MyReactProject\\myreactproject.esproj|solutionrelative:myreactproject\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{672412F0-C750-4629-8C8A-520F16BA9DD4}|MyReactProject\\myreactproject.esproj|c:\\users\\0b7744649\\source\\repos\\myreactproject\\myreactproject\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -42,51 +42,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "App.jsx",
               "DocumentMoniker": "C:\\Users\\0B7744649\\source\\repos\\MyReactProject\\myreactproject\\src\\App.jsx",
               "RelativeDocumentMoniker": "myreactproject\\src\\App.jsx",
               "ToolTip": "C:\\Users\\0B7744649\\source\\repos\\MyReactProject\\myreactproject\\src\\App.jsx",
               "RelativeToolTip": "myreactproject\\src\\App.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2024-10-31T15:25:08.779Z",
-              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Home.jsx",
               "DocumentMoniker": "C:\\Users\\0B7744649\\source\\repos\\MyReactProject\\myreactproject\\src\\Home.jsx",
               "RelativeDocumentMoniker": "myreactproject\\src\\Home.jsx",
               "ToolTip": "C:\\Users\\0B7744649\\source\\repos\\MyReactProject\\myreactproject\\src\\Home.jsx",
               "RelativeToolTip": "myreactproject\\src\\Home.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2024-11-01T19:35:58.588Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Weather.jsx",
               "DocumentMoniker": "C:\\Users\\0B7744649\\source\\repos\\MyReactProject\\myreactproject\\src\\Weather.jsx",
               "RelativeDocumentMoniker": "myreactproject\\src\\Weather.jsx",
               "ToolTip": "C:\\Users\\0B7744649\\source\\repos\\MyReactProject\\myreactproject\\src\\Weather.jsx",
               "RelativeToolTip": "myreactproject\\src\\Weather.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAwD4AAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2024-11-01T19:34:02.4Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "package.json",
               "DocumentMoniker": "C:\\Users\\0B7744649\\source\\repos\\MyReactProject\\myreactproject\\package.json",
               "RelativeDocumentMoniker": "myreactproject\\package.json",
@@ -94,8 +93,7 @@
               "RelativeToolTip": "myreactproject\\package.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-01T04:52:18.42Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-01T04:52:18.42Z"
             },
             {
               "$type": "Document",
@@ -107,8 +105,7 @@
               "RelativeToolTip": "myreactproject\\index.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-10-31T17:03:45.191Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T17:03:45.191Z"
             },
             {
               "$type": "Document",

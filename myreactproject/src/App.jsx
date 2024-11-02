@@ -1,8 +1,11 @@
 // src/App.js
 import React, { useState } from 'react';
+
+import { BrowserRouter as Router, Routes, Route, useNavigate } from 'react-router-dom';
 import Home from './Home';
 import Weather from './Weather';
 import './index.css';
+
 
 function App() {
     const [showWeather, setShowWeather] = useState(false);
@@ -22,9 +25,9 @@ function App() {
             ) : (
                 <Home onShowWeather={handleShowWeather} />
             )}
-        </div>
+            </div>
+      
     );
 }
 
 export default App;
-
